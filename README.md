@@ -1,6 +1,6 @@
 # ESP Extension Board
 ![PCB](PCB.png)
-- IOT Extension board for `LOLIN D1 mini`(ES8266) / `ESP32C3 SuperMini`
+- IOT Extension board for `LOLIN D1 mini`(ESP8266) / `ESP32C3 SuperMini`
 - Tool : Kicad 9.0
 # Pinout
 
